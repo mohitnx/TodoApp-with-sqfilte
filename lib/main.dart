@@ -65,6 +65,3 @@ class _TestingState extends State<Testing> {
 
 
 
-//.fromMap is used to read data from db and display them on app
-//.toMap is used to store data from app to db as db ma data can be only stored as maps
-//.toString is optional as it is used for testing by printing itmes of db on console..without it , the console would only show instance of db instead of actually showing the value
